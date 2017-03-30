@@ -1,0 +1,18 @@
+C:\Users\mnaggaga\Documents\GitHub\GeeksEat\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.deps.json
+C:\Users\mnaggaga\Documents\GitHub\GeeksEat\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.runtimeconfig.json
+C:\Users\mnaggaga\Documents\GitHub\GeeksEat\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.runtimeconfig.dev.json
+C:\Users\mnaggaga\Documents\GitHub\GeeksEat\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.dll
+C:\Users\mnaggaga\Documents\GitHub\GeeksEat\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.pdb
+C:\Users\mnaggaga\Documents\GitHub\GeeksEat\GeeksEat\GeeksEat\obj\Debug\netcoreapp1.1\GeeksEat.csprojResolveAssemblyReference.cache
+C:\Users\mnaggaga\Documents\GitHub\GeeksEat\GeeksEat\GeeksEat\obj\Debug\netcoreapp1.1\GeeksEat.AssemblyInfo.cs
+C:\Users\mnaggaga\Documents\GitHub\GeeksEat\GeeksEat\GeeksEat\obj\Debug\netcoreapp1.1\GeeksEat.dll
+C:\Users\mnaggaga\Documents\GitHub\GeeksEat\GeeksEat\GeeksEat\obj\Debug\netcoreapp1.1\GeeksEat.pdb
+C:\Users\mnaggaga\Documents\Visual Studio 2017\Projects\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.deps.json
+C:\Users\mnaggaga\Documents\Visual Studio 2017\Projects\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.runtimeconfig.json
+C:\Users\mnaggaga\Documents\Visual Studio 2017\Projects\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.runtimeconfig.dev.json
+C:\Users\mnaggaga\Documents\Visual Studio 2017\Projects\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.dll
+C:\Users\mnaggaga\Documents\Visual Studio 2017\Projects\GeeksEat\GeeksEat\bin\Debug\netcoreapp1.1\GeeksEat.pdb
+C:\Users\mnaggaga\Documents\Visual Studio 2017\Projects\GeeksEat\GeeksEat\obj\Debug\netcoreapp1.1\GeeksEat.csprojResolveAssemblyReference.cache
+C:\Users\mnaggaga\Documents\Visual Studio 2017\Projects\GeeksEat\GeeksEat\obj\Debug\netcoreapp1.1\GeeksEat.AssemblyInfo.cs
+C:\Users\mnaggaga\Documents\Visual Studio 2017\Projects\GeeksEat\GeeksEat\obj\Debug\netcoreapp1.1\GeeksEat.dll
+C:\Users\mnaggaga\Documents\Visual Studio 2017\Projects\GeeksEat\GeeksEat\obj\Debug\netcoreapp1.1\GeeksEat.pdb
